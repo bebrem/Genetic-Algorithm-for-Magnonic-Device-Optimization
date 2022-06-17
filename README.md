@@ -1,0 +1,1 @@
+# Genetic-Algorithm-for-Magnonic-Device-Optimization
